@@ -8,5 +8,8 @@
     "start": "node node.js"
   },
   "author": "Me",
-  "license": "ISC"
+  "license": "ISC",
+  "devDependencies": {
+    "nodemon": "^3.1.7"
+  }
 }
